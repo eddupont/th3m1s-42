@@ -10,5 +10,5 @@
 
 # the Life, the Universe & Everything
 
-![42](img/Answer_to_Life.png)
+[42]: img/Answer_to_Life.png
 
