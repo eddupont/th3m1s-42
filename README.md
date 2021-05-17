@@ -2,7 +2,7 @@
 **th3m1s-42/th3m1s-42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-# Isaac Asimov's "*Three Laws of Robotics*" 🤖
+# Isaac Asimov's *"Three Laws of Robotics"* 🤖
 
 1.  A robot may not injure a human being or, through inaction, allow a human being to come to harm.    
     \[ ⇒ *Un robot ne peut pas blesser un être humain ou, par son inaction, permettre qu'un être humain soit blessé.* \]
